@@ -1,0 +1,1284 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.14)  17 SEP 2017 22:39
+entering extended mode
+**./integrantes.tex
+(integrantes.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1    \begin{center}
+                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+! Undefined control sequence.
+l.2       \Large
+                \textbf{Integrantes}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (56.5983pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/bx/n/10 Integrantes 
+ []
+
+! Undefined control sequence.
+<recently read> \large 
+                       
+l.3       \large
+                \textit{(Nome/Matricula)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (81.2967pt too wide) in paragraph at lines 3--4
+ []\OT1/cmr/m/it/10 (Nome/Matricula) 
+ []
+
+! Undefined control sequence.
+l.6 \section
+            *{Gerentes:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no © in font cmbx10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--8
+[]
+ []
+
+
+Overfull \hbox (22.88184pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 Ger-
+ []
+
+
+Overfull \hbox (21.08324pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 ente
+ []
+
+
+Overfull \hbox (27.73596pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 geral:
+ []
+
+
+Overfull \hbox (19.04156pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 Db-
+ []
+
+
+Overfull \hbox (16.0763pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 ora
+ []
+
+
+Overfull \hbox (30.7012pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 Janini
+ []
+
+
+Overfull \hbox (27.31233pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 Cam-
+ []
+
+
+Overfull \hbox (16.99434pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 pos
+ []
+
+
+Overfull \hbox (36.89702pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 Guedes
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 6--8
+\OT1/cmr/bx/n/10 (15/0008619) 
+ []
+
+
+Overfull \hbox (40.13176pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Gerente
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (38.41092pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Aeroes-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 pa-
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 cial
+ []
+
+
+Overfull \hbox (5.27081pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 e
+ []
+
+
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Au-
+ []
+
+
+Overfull \hbox (14.05548pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 to-
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 mo-
+ []
+
+
+Overfull \hbox (21.8818pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 tiva:
+ []
+
+
+Overfull \hbox (25.07625pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Mar-
+ []
+
+
+Overfull \hbox (15.39713pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 cos
+ []
+
+
+Overfull \hbox (28.4651pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Paulo
+ []
+
+
+Overfull \hbox (14.11104pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 M.
+ []
+
+
+Overfull \hbox (28.65398pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 Costa
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 9--10
+\OT1/cmr/bx/n/10 (15/0139225) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ´ in font cmbx10!
+
+Overfull \hbox (40.13176pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Gerente
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (29.06236pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Eletr-
+ []
+
+
+Overfull \hbox (23.47902pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 nica:
+ []
+
+
+Overfull \hbox (28.28455pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Tiago
+ []
+
+
+Overfull \hbox (18.20824pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Ro-
+ []
+
+
+Overfull \hbox (36.26509pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 drigues
+ []
+
+
+Overfull \hbox (36.3401pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Pereira
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 (16/0072620) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ­ in font cmbx10!
+
+Overfull \hbox (40.13176pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 Gerente
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 En-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (17.72905pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 gia:
+ []
+
+
+Overfull \hbox (22.111pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 Vin-
+ []
+
+
+Overfull \hbox (19.23044pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 cius
+ []
+
+
+Overfull \hbox (27.44568pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 Alves
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 da
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 Sil-
+ []
+
+
+Overfull \hbox (24.54153pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 veira
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 13--14
+\OT1/cmr/bx/n/10 (14/0033041) 
+ []
+
+! Undefined control sequence.
+l.15 \section
+             *{Demais integrantes:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+[]
+ []
+
+
+Overfull \hbox (42.23584pt too wide) in paragraph at lines 17--18
+\OT1/cmr/bx/n/10 Amanda
+ []
+
+
+Overfull \hbox (30.68039pt too wide) in paragraph at lines 17--18
+\OT1/cmr/bx/n/10 Vieira
+ []
+
+
+Overfull \hbox (25.59848pt too wide) in paragraph at lines 17--18
+\OT1/cmr/bx/n/10 Pires
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 17--18
+\OT1/cmr/bx/n/10 (15/0004796) 
+ []
+
+
+Overfull \hbox (48.15392pt too wide) in paragraph at lines 19--20
+\OT1/cmr/bx/n/10 Anderson
+ []
+
+
+Overfull \hbox (24.9804pt too wide) in paragraph at lines 19--20
+\OT1/cmr/bx/n/10 Sales
+ []
+
+
+Overfull \hbox (27.34708pt too wide) in paragraph at lines 19--20
+\OT1/cmr/bx/n/10 Pinto
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 19--20
+\OT1/cmr/bx/n/10 (15/0117418) 
+ []
+
+
+Overfull \hbox (31.44429pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 Bruno
+ []
+
+
+Overfull \hbox (27.44568pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 Alves
+ []
+
+
+Overfull \hbox (20.11797pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 Fer-
+ []
+
+
+Overfull \hbox (23.52766pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 reira
+ []
+
+
+Overfull \hbox (17.72905pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 Ca-
+ []
+
+
+Overfull \hbox (23.74292pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 mar-
+ []
+
+
+Overfull \hbox (16.03601pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 gos
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 21--22
+\OT1/cmr/bx/n/10 (15/0120117) 
+ []
+
+
+Overfull \hbox (31.44429pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 Bruno
+ []
+
+
+Overfull \hbox (26.729pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 Mota
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 Souza
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 (14/0058745) 
+ []
+
+
+Overfull \hbox (22.84013pt too wide) in paragraph at lines 25--26
+\OT1/cmr/bx/n/10 Caio
+ []
+
+
+Overfull \hbox (42.2359pt too wide) in paragraph at lines 25--26
+\OT1/cmr/bx/n/10 Azevedo
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 25--26
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (41.91643pt too wide) in paragraph at lines 25--26
+\OT1/cmr/bx/n/10 Almeida
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 25--26
+\OT1/cmr/bx/n/10 (16/0046211) 
+ []
+
+
+Overfull \hbox (23.35402pt too wide) in paragraph at lines 27--28
+\OT1/cmr/bx/n/10 Davi
+ []
+
+
+Overfull \hbox (27.44568pt too wide) in paragraph at lines 27--28
+\OT1/cmr/bx/n/10 Alves
+ []
+
+
+Overfull \hbox (22.39572pt too wide) in paragraph at lines 27--28
+\OT1/cmr/bx/n/10 Bez-
+ []
+
+
+Overfull \hbox (20.33324pt too wide) in paragraph at lines 27--28
+\OT1/cmr/bx/n/10 erra
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 27--28
+\OT1/cmr/bx/n/10 (15/0122837) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+
+Overfull \hbox (29.91652pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 Felipe
+ []
+
+
+Overfull \hbox (17.00822pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 Os-
+ []
+
+
+Overfull \hbox (13.6805pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 rio
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (39.56923pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 Oliveira
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 29--30
+\OT1/cmr/bx/n/10 (14/0138676) 
+ []
+
+
+Overfull \hbox (46.63167pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 Fernanda
+ []
+
+
+Overfull \hbox (15.04854pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 Je-
+ []
+
+
+Overfull \hbox (15.461pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 sus
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 Souza
+ []
+
+
+Overfull \hbox (27.44568pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 Alves
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 31--32
+\OT1/cmr/bx/n/10 (14/0019961) 
+ []
+
+
+Overfull \hbox (28.79846pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 Filipe
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 Souza
+ []
+
+
+Overfull \hbox (20.11797pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 Fre-
+ []
+
+
+Overfull \hbox (17.79292pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 itas
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 33--34
+\OT1/cmr/bx/n/10 (14/0020161) 
+ []
+
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
+
+Overfull \hbox (53.06918pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 Guilherme
+ []
+
+
+Overfull \hbox (16.6749pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 dos
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 San-
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 tos
+ []
+
+
+Overfull \hbox (37.47899pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 Ribeiro
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 San-
+ []
+
+
+Overfull \hbox (25.14568pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 tAna
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 35--36
+\OT1/cmr/bx/n/10 (14/0142193) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no º in font cmbx10!
+
+Overfull \hbox (40.4095pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 Haroldo
+ []
+
+
+Overfull \hbox (21.27766pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 Jnio
+ []
+
+
+Overfull \hbox (16.6749pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 dos
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 San-
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 tos
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 (14/0041516) 
+ []
+
+
+Overfull \hbox (41.20946pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 Gustavo
+ []
+
+
+Overfull \hbox (24.49294pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 Hen-
+ []
+
+
+Overfull \hbox (25.6596pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 rique
+ []
+
+
+Overfull \hbox (35.36784pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 Yabuki
+ []
+
+
+Overfull \hbox (31.7234pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 Dubas
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 39--40
+\OT1/cmr/bx/n/10 (15/0139403) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+
+Overfull \hbox (20.59712pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 Igor
+ []
+
+
+Overfull \hbox (25.4443pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 Flvio
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (34.7234pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 Morais
+ []
+
+
+Overfull \hbox (25.28456pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 Lima
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 41--42
+\OT1/cmr/bx/n/10 (15/0129939) 
+ []
+
+
+Overfull \hbox (38.27196pt too wide) in paragraph at lines 43--44
+\OT1/cmr/bx/n/10 Jonatas
+ []
+
+
+Overfull \hbox (37.47899pt too wide) in paragraph at lines 43--44
+\OT1/cmr/bx/n/10 Ribeiro
+ []
+
+
+Overfull \hbox (59.8955pt too wide) in paragraph at lines 43--44
+\OT1/cmr/bx/n/10 Mangabeiro
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 43--44
+\OT1/cmr/bx/n/10 (14/0169113) 
+ []
+
+
+Overfull \hbox (28.54286pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 Lucas
+ []
+
+
+Overfull \hbox (27.37624pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 Regis
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 da
+ []
+
+
+Overfull \hbox (14.11104pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 M.
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 S.
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 45--46
+\OT1/cmr/bx/n/10 (15/0137443) 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \noindent
+              {\bfseries Luis Felipe Vieira Lahar                           ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (21.03598pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 Luis
+ []
+
+
+Overfull \hbox (15.38187pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 Fe-
+ []
+
+
+Overfull \hbox (18.36797pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 lipe
+ []
+
+
+Overfull \hbox (30.68039pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 Vieira
+ []
+
+
+Overfull \hbox (16.34016pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 La-
+ []
+
+
+Overfull \hbox (16.71518pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 har
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 47--48
+\OT1/cmr/bx/n/10 (15/0016263) 
+ []
+
+
+Overfull \hbox (36.64006pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 Marcos
+ []
+
+
+Overfull \hbox (25.30542pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 Vini-
+ []
+
+
+Overfull \hbox (19.23044pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 cius
+ []
+
+
+Overfull \hbox (25.28456pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 Lima
+ []
+
+
+Overfull \hbox (51.58998pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 Raimundo
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 49--50
+\OT1/cmr/bx/n/10 (15/0016956) 
+ []
+
+
+Overfull \hbox (51.37474pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 Margreicy
+ []
+
+
+Overfull \hbox (26.3068pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 Luise
+ []
+
+
+Overfull \hbox (25.07625pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 Mar-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 inho
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (28.65398pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 Sousa
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 51--52
+\OT1/cmr/bx/n/10 (15/0139403) 
+ []
+
+
+Overfull \hbox (43.56363pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 Matheus
+ []
+
+
+Overfull \hbox (22.46515pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 Car-
+ []
+
+
+Overfull \hbox (26.354pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 valho
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (28.65398pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 Sousa
+ []
+
+
+Overfull \hbox (22.14012pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 Dias
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 53--54
+\OT1/cmr/bx/n/10 (13/0126284) 
+ []
+
+
+Overfull \hbox (45.48029pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 Mathews
+ []
+
+
+Overfull \hbox (25.18875pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 Leles
+ []
+
+
+Overfull \hbox (20.11797pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 Fer-
+ []
+
+
+Overfull \hbox (23.52766pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 reira
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 San-
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 tos
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 55--56
+\OT1/cmr/bx/n/10 (14/0047948) 
+ []
+
+
+Overfull \hbox (22.57625pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 Max
+ []
+
+
+Overfull \hbox (24.49294pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 Hen-
+ []
+
+
+Overfull \hbox (25.6596pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 rique
+ []
+
+
+Overfull \hbox (22.34015pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 Bar-
+ []
+
+
+Overfull \hbox (22.58456pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 bosa
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 57--58
+\OT1/cmr/bx/n/10 (16/0047013) 
+ []
+
+
+Overfull \hbox (29.68736pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 Pedro
+ []
+
+
+Overfull \hbox (24.49294pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 Hen-
+ []
+
+
+Overfull \hbox (25.6596pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 rique
+ []
+
+
+Overfull \hbox (26.3332pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 Brito
+ []
+
+
+Overfull \hbox (28.90958pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 Chec-
+ []
+
+
+Overfull \hbox (19.96515pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 chia
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 59--60
+\OT1/cmr/bx/n/10 (15/0044488) 
+ []
+
+
+Overfull \hbox (29.68736pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 Pedro
+ []
+
+
+Overfull \hbox (17.1388pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 Lu-
+ []
+
+
+Overfull \hbox (15.23738pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 cas
+ []
+
+
+Overfull \hbox (21.27766pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 Pin-
+ []
+
+
+Overfull \hbox (25.34016pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 heiro
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 Souza
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 61--62
+\OT1/cmr/bx/n/10 (13/0035581) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+
+Overfull \hbox (41.3123pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 Roberto
+ []
+
+
+Overfull \hbox (25.07625pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 Mar-
+ []
+
+
+Overfull \hbox (18.59155pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 tins
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (36.73592pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 Nbrega
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 63--64
+\OT1/cmr/bx/n/10 (14/0065547) 
+ []
+
+
+Overfull \hbox (31.95818pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 Victor
+ []
+
+
+Overfull \hbox (22.6249pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 Cor-
+ []
+
+
+Overfull \hbox (18.79156pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 reia
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (33.38176pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 Moura
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 65--66
+\OT1/cmr/bx/n/10 (15/0150792) 
+ []
+
+
+Overfull \hbox (40.70255pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 Vinicius
+ []
+
+
+Overfull \hbox (15.39713pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 Zs-
+ []
+
+
+Overfull \hbox (48.61917pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 chitschick
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (39.56923pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 Oliveira
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 67--68
+\OT1/cmr/bx/n/10 (14/0052828) 
+ []
+
+
+Overfull \hbox (26.84709pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 Vitor
+ []
+
+
+Overfull \hbox (22.46515pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 Car-
+ []
+
+
+Overfull \hbox (26.354pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 valho
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (41.91643pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 Almeida
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 69--70
+\OT1/cmr/bx/n/10 (14/0165380) 
+ []
+
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no £ in font cmbx10!
+
+Overfull \hbox (26.84709pt too wide) in paragraph at lines 71--72
+\OT1/cmr/bx/n/10 Vitor
+ []
+
+
+Overfull \hbox (25.92345pt too wide) in paragraph at lines 71--72
+\OT1/cmr/bx/n/10 Falco
+ []
+
+
+Overfull \hbox (28.65398pt too wide) in paragraph at lines 71--72
+\OT1/cmr/bx/n/10 Costa
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 71--72
+\OT1/cmr/bx/n/10 (15/0151624) 
+ []
+
+
+Overfull \hbox (26.84709pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 Vitor
+ []
+
+
+Overfull \hbox (34.81924pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 Rangel
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 de
+ []
+
+
+Overfull \hbox (36.48592pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 Aquino
+ []
+
+
+Overfull \hbox (23.79846pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 Silva
+ []
+
+
+Overfull \hbox (66.44409pt too wide) in paragraph at lines 73--74
+\OT1/cmr/bx/n/10 (17/0064107) 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2])
+! Emergency stop.
+<*> ./integrantes.tex
+                     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 493323
+ 183 string characters out of 3139066
+ 56648 words of memory out of 3000000
+ 3649 multiletter control sequences out of 15000+200000
+ 4294 words of font info for 16 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,5n,14p,175b,114s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

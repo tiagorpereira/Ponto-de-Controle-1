@@ -1,0 +1,101 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: relatorio_final_pi1_turmae_pc1.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: bibliografia.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2091 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2091 of file abntex2-alf.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--campo year vazio ou faltando em djangoframe
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2146 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2146 of file abntex2-alf.bst
+Too many commas in name 1 of "FITZGERALD, A. E.; KINGSLEY JR., Charles;KUSKO, Alexander" for entry maquinasele
+while executing---line 2146 of file abntex2-alf.bst
+Warning--campo year vazio ou faltando em ultrasom1
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2146 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2146 of file abntex2-alf.bst
+Too many commas in name 1 of "Talía S. Santos , Marília C. Batista, Simone A. Pozza , Luciana S. Rossi" for entry santos1
+while executing---line 2146 of file abntex2-alf.bst
+Warning--campo year vazio ou faltando em portalsol1
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 15 entries,
+            6714 wiz_defined-function locations,
+            1268 strings with 11432 characters,
+and the built_in function-call counts, 10152 in all, are:
+= -- 890
+> -- 264
+< -- 45
++ -- 177
+- -- 84
+* -- 633
+:= -- 1489
+add.period$ -- 51
+call.type$ -- 15
+change.case$ -- 113
+chr.to.int$ -- 21
+cite$ -- 17
+duplicate$ -- 547
+empty$ -- 779
+format.name$ -- 398
+if$ -- 2331
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 240
+newline$ -- 78
+num.names$ -- 70
+pop$ -- 296
+preamble$ -- 1
+purify$ -- 49
+quote$ -- 0
+skip$ -- 677
+stack$ -- 1
+substring$ -- 357
+swap$ -- 216
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 3
+warning$ -- 3
+while$ -- 87
+width$ -- 0
+write$ -- 214
+(There were 16 error messages)
