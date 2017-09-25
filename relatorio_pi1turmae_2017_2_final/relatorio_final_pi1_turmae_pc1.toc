@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {2.4.2}REQUISITOS ESPEC\IeC {\'I}FICOS}{11}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}REQUISITOS PR\IeC {\'A}TICOS DO PROT\IeC {\'O}TIPO}{13}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}ESTRUTURA ANAL\IeC {\'I}TICA DO PROJETO (EAP)}{13}{section.2.5}
-\contentsline {section}{\numberline {2.6}MACRO CRONOGRAMA DO PROJETO}{13}{section.2.6}
+\contentsline {section}{\numberline {2.6}MACRO CRONOGRAMA DO PROJETO}{14}{section.2.6}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~a}o}}{16}{chapter.3}
 \vspace {\cftbeforechapterskip }

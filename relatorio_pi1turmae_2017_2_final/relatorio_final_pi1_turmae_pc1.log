@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.18)  22 SEP 2017 11:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.18)  25 SEP 2017 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -999,6 +999,14 @@ Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count169
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count170
+\float@exts=\toks28
+\float@box=\box30
+\@float@everytoks=\toks29
+\@floatcapt=\box31
 ))
 (./fixos/comandos.tex) (./fixos/novosComandos.tex) (./editaveis/informacoes.tex
 ) (./fixos/informacoes.tex) (./fixos/setup.tex
@@ -1031,7 +1039,7 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 10.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box32
 Package hyperref Info: Link coloring ON on input line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1039,7 +1047,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count170
+\c@section@level=\count171
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1050,24 +1058,24 @@ LaTeX Info: Redefining \nameref on input line 10.
 LaTeX Info: Redefining \degres on input line 10.
 LaTeX Info: Redefining \dots on input line 10.
 LaTeX Info: Redefining \up on input line 10.
-\myptabbox=\box31
+\myptabbox=\box33
 \myptabboxwidth=\skip269
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 10.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
+\scratchcounter=\count172
 \scratchdimen=\dimen159
-\scratchbox=\box32
-\nofMPsegments=\count172
-\nofMParguments=\count173
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count174
+\scratchbox=\box34
+\nofMPsegments=\count173
+\nofMParguments=\count174
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count175
 \MPscratchDim=\dimen160
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
+\everyMPtoPDFconversion=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1211,20 +1219,27 @@ File: figuras/eap_cort4.png Graphic file (type png)
 <use figuras/eap_cort4.png>
 Package pdftex.def Info: figuras/eap_cort4.png used on input line 120.
 (pdftex.def)             Requested size: 230.73645pt x 90.33727pt.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+1}) has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.125 
+       <./figuras/eap_pi1.png>] [14pdfTeX warning (ext4): destination with the 
+same identifier (name{figure.2.2}) has been already used, duplicate ignored
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13 <./figuras/eap_pi1.png>] [14 <./figuras/eap_cort1.png> <./figuras/eap_cort2
-.png> <./figuras/eap_cort3.png> <./figuras/eap_cort4.png>])
-(./editaveis/consideracoes.tex [15]) (./editaveis/textoepostexto.tex)
-(./editaveis/elementosdotexto.tex) (./editaveis/elementosdopostexto.tex)
-(./relatorio_final_pi1_turmae_pc1.bbl (./relatorio_final_pi1_turmae_pc1.brf)
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.138 \end{itemize}
+                    <./figuras/eap_cort1.png> <./figuras/eap_cort2.png> <./figu
+ras/eap_cort3.png> <./figuras/eap_cort4.png>]) (./editaveis/consideracoes.tex
+[15]) (./editaveis/textoepostexto.tex) (./editaveis/elementosdotexto.tex)
+(./editaveis/elementosdopostexto.tex) (./relatorio_final_pi1_turmae_pc1.bbl
+(./relatorio_final_pi1_turmae_pc1.brf)
 \tf@brf=\write5
 \openout5 = `relatorio_final_pi1_turmae_pc1.brf'.
 
-
-[16
+ [16
 
 ]
 
@@ -1257,10 +1272,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 12522 strings out of 494865
- 182534 string characters out of 6178079
- 399941 words of memory out of 5000000
- 15479 multiletter control sequences out of 15000+600000
+ 12577 strings out of 494865
+ 183256 string characters out of 6178079
+ 401365 words of memory out of 5000000
+ 15530 multiletter control sequences out of 15000+600000
  69261 words of font info for 44 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  40i,13n,38p,1105b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1272,7 +1287,7 @@ xmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 ss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
 0.pfb>
-Output written on relatorio_final_pi1_turmae_pc1.pdf (18 pages, 391666 bytes).
+Output written on relatorio_final_pi1_turmae_pc1.pdf (18 pages, 391607 bytes).
 PDF statistics:
  307 PDF objects out of 1000 (max. 8388607)
  258 compressed objects within 3 object streams
